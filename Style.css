@@ -1,0 +1,13 @@
+style.css
+
+p {color: blue;}
+
+#buttons li {
+    float: left;
+    list-style: none;
+    text-align: center;
+    background-color: #000000;
+    margin-right: 30px;
+    width: 150px;
+    line-height: 60px;
+  }
