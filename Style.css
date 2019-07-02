@@ -1,0 +1,65 @@
+style.css
+
+
+body {
+  color: white;
+  background-color: #333;
+  font-size: 150%;
+  font-family: NeutraText;
+  font-style: normal;;
+  
+}
+p {
+  background-color : white;
+  text-align: center;
+  font-size: 125%;
+  font-weight: bold;
+  font-family: Garamond;
+  border-color:navy;
+  border-style: double;
+  border-width: 10px;
+}
+
+
+#buttons li {
+    float: left;
+    list-style: none;
+    text-align: center;
+    background-color:navy;
+    margin-right: 30px;
+    width: 150px;
+    line-height: 60px;
+      display: block;
+      width: 100px;
+    }
+  
+
+    /* http://meyerweb.com/eric/tools/css/reset/ 
+   v2.0 | 20110126
+   License: none (public domain)
+*/
+
+article, aside, details, figcaption, figure, 
+footer, header, hgroup, menu, nav, section {
+	display: block;
+}
+body {
+	line-height: 1;
+}
+ol, ul {
+	list-style: none;
+}
+blockquote, q {
+	quotes: none;
+}
+blockquote:before, blockquote:after,
+q:before, q:after {
+	content: '';
+	content: none;
+}
+table {
+	border-collapse: collapse;
+	border-spacing: 0;
+}
+
+ 
